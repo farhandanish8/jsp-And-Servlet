@@ -1,0 +1,22 @@
+1710917783549	Rename package 'src.main.java.com.doctor'
+1710917798356	Rename package 'src.main.java.com.doctor.exceptions'
+1710917809704	Rename package 'src.main.java.com.doctor.model'
+1710917820332	Rename package 'src.main.java.com.doctor.repository'
+1710917835719	Rename package 'src.main.java.com.doctor.service'
+1710917843007	Rename package 'src.main.java.com.doctor.util'
+1710917868194	Delete element
+1710917870078	Delete element
+1710917896144	Delete elements
+1710918229556	Delete elements
+1710919905290	Delete elements
+1710923030471	Delete element
+1710924475579	Delete element
+1710924511112	Rename type 'SpringMvcBasicApplication'
+1710929286651	Rename resource 'addDoc.jsp'
+1710929349005	Rename resource 'addDoctor.jsp'
+1710929480572	Rename resource 'editDoc.jsp'
+1710929849715	Rename resource 'updateDoc.jsp'
+1710929862977	Rename resource 'editDoctorfrom.jsp'
+1710930543657	Rename resource 'updateDoctorform.jsp'
+1710930551821	Rename resource 'editDoctorform.jsp'
+1710932191008	Rename resource 'deleteDoc.jsp'

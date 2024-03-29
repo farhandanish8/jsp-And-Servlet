@@ -1,0 +1,15 @@
+127.0.0.1 - - [18/Mar/2024:09:52:35 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:09:52:37 +0530] "GET /DoctorAppMaven/ HTTP/1.1" 200 166
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:09:52:37 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:09:52:38 +0530] "GET /DoctorAppMaven/admin.jsp HTTP/1.1" 200 296
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:09:52:39 +0530] "GET /DoctorAppMaven/addDoc.jsp HTTP/1.1" 200 747
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:09:52:45 +0530] "GET /DoctorAppMaven/addServlet?doctorname=Nikhil&speciality=ORTHOPEDIC&fees=9000&ratings=8&experience=7 HTTP/1.1" 200 296
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:09:52:46 +0530] "GET /DoctorAppMaven/delete.jsp HTTP/1.1" 404 740
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:10:23:34 +0530] "GET /DoctorAppMaven/hello.jsp HTTP/1.1" 200 261
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:10:29:24 +0530] "GET /DoctorAppMaven/hello.jsp HTTP/1.1" 200 338
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:10:29:25 +0530] "GET /DoctorAppMaven/hello.jsp HTTP/1.1" 200 338
+127.0.0.1 - - [18/Mar/2024:11:39:03 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:11:39:04 +0530] "GET /JspDemos/jstl.jsp HTTP/1.1" 500 2512
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:11:40:02 +0530] "GET /JspDemos/jstl.jsp HTTP/1.1" 500 2512
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:11:40:03 +0530] "GET /JspDemos/jstl.jsp HTTP/1.1" 500 2834
+0:0:0:0:0:0:0:1 - - [18/Mar/2024:11:43:22 +0530] "GET /JspDemos/jstl.jsp HTTP/1.1" 500 2512
